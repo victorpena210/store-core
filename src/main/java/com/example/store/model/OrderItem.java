@@ -1,5 +1,6 @@
 package com.example.store.model;
 
+
 public class OrderItem {
 	private long id;
 	private long orderId;
